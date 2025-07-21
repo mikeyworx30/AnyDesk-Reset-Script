@@ -1,0 +1,10 @@
+# Batch script extras
+*.log
+*.bak
+*.tmp
+
+# OS or IDE generated
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
